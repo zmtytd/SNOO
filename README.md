@@ -1,6 +1,8 @@
 # Semi-parameterized Nonlinear Optical Operator
 The core code implementation of SNOO in the manuscript is contained within the code package. The training process and configurations for other models are also included. The DemoMain.ipynb file in the Demo folder is the central demonstration; to run it successfully, please follow the instructions below.
 
+# The code and data will be open-sourced after the paper is accepted.
+
 ## Installation
 Required Python packages:
 
