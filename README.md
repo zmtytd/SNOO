@@ -12,10 +12,10 @@ Other required packages (yaml, os, math, json, time, sys) do not require specifi
 
 ## Setup
 When running the second code cell in DemoMain.ipynb, the lines:
-sys.path.append('/root/Trainer')
-sys.path.append('/root')
-sys.path.append('/root/Model')
-sys.path.append('/root/complexPytorch')
+sys.path.append('/root/Trainer')\\
+sys.path.append('/root')\\
+sys.path.append('/root/Model')\\
+sys.path.append('/root/complexPytorch')\\
 Indicate paths that need to be added. Typically, if you are using a local environment like VSCode, PyCharm, or others, you may consider skipping these lines.
 
 ## Folder Structure
